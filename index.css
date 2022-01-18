@@ -1,0 +1,77 @@
+*{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.lead-title{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.package-text{
+    font-weight: 500;
+}
+
+.font-weight{
+    font-weight: 700;
+}
+
+.card-price{
+    height: 75vh;
+    width: 55vh;
+}
+
+li{
+    font-size: 14px;
+}
+
+i{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.box-it{
+    border: 2px solid rgb(167, 158, 158);
+    border-radius: 8px;
+}
+
+
+.pick-title{
+    margin: 4rem;
+}
+
+.coupon {
+    border-radius: 12px;
+    color:#2480fd;
+}
+
+.code:hover {
+    background: #2480fd;
+    color: #fff;
+    cursor: pointer
+}
+
+.facts{
+    margin-left: 50vw;
+    margin-top: -38vh;
+    margin-bottom: 10vh;
+}
+
+.box-fact{
+    height: 50px;
+  width: 50px;
+  background-color: #de4e45;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+.fact-icon{
+    font-size: 24px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.footer-color{
+    background-color: rgb(247, 247, 247);
+}
